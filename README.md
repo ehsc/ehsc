@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="center"><![snake gif](https://github.com/ehsc/ehsc/blob/output/github-contribution-grid-snake.svg)</p>
 
-![snake gif](https://github.com/ehsc/ehsc/blob/output/github-contribution-grid-snake.svg)
