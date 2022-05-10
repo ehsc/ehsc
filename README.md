@@ -1,10 +1,10 @@
 
-<h4 align="center"><samp> Hi there 👋 </samp></h4>
+### Hi there 👋
 <!--
 **ehsc/ehsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+<h4 align="center"><samp> Hi there 👋 </samp></h4>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
