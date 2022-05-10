@@ -1,10 +1,10 @@
 
-<div align="center">
-### Hi there 👋
-</div>
+
+
+
 <!--
 **ehsc/ehsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 <h4 align="center"><samp> Hi there 👋 </samp></h4>
 - 🔭 I’m currently working on ...
@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 ![snake gif](https://github.com/ehsc/ehsc/blob/output/github-contribution-grid-snake.svg) 
 
